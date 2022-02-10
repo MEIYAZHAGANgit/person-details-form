@@ -1,0 +1,11 @@
+*{
+    margin: 5px;
+    margin-inline:black;
+    background-color:rgb(176, 229, 245)
+
+}
+td,th{
+    border-top:1px solid black;
+    padding:5px;
+    text-align:center;
+}
